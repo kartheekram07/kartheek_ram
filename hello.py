@@ -1,1 +1,2 @@
-print("Hello, Kartheek")
+for letter in 'banana':
+    print(letter)
